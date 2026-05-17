@@ -1,6 +1,6 @@
 # SPOTX – AI-Powered Platform for Smart Event Planning and Promotion
 
-![SPOTX Banner]([https://img.shields.io/badge/Project-SPOTX-blue](https://spot-x-chi.vercel.app/))
+![SPOTX Banner]([https://img.shields.io/badge/Project-SPOTX-blue])
 ![Next.js](https://img.shields.io/badge/Next.js-Framework-black)
 ![React](https://img.shields.io/badge/React-Frontend-61DAFB)
 ![Convex](https://img.shields.io/badge/Convex-Backend-orange)
