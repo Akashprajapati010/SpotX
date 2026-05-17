@@ -280,7 +280,7 @@ The Explore Page allows users to:
 
 # 👨‍💻 Team Members
 
-* Akash Prajapati
+* Akash Prajapati (Team Leader)
 * Aakash Tiwari
 * Adnan Baig
 * Abhimanyu Patel
